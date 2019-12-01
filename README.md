@@ -2,6 +2,6 @@
 A project for Digital Marketing Need
 
 <ul>
-  <li>https://bharatwakhlu.com/</li>
-  <li>https://www.charliewards.com/</li>
+  <li>The Wakhlu Advisory- https://bharatwakhlu.com/</li>
+  <li>Charlie Ward's- https://www.charliewards.com/</li>
 </ul>
